@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+msal
+cryptography
+sse-starlette
+httpx
+python-dotenv
